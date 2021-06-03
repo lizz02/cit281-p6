@@ -1,0 +1,3 @@
+theme: jekyll-theme-midnight
+title: CIT281 Project 6
+description: Using two classes which inherit from the class “shape”, write node.js javascript which can calcuate the perimeter and area of a shape based on an array of its sides’ length.
