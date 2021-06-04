@@ -3,14 +3,14 @@
 - Exporting modules
 - Non-web server Node.js JavaScript code
     - Lambda expressions
-    - Ternary operaters
+    - Ternary operators
     - Classes
     - Class inheritance
     - constructor() method
     - .reduce() method
     - Math.sqrt() method
     - .toString() method
-    - Switch operater
+    - Switch operators
     - template literals
     - console.log() method
 
